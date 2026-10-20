@@ -1,0 +1,11 @@
+
+# Generated build files
+/build/
+/dist/
+
+# Windows installers and executables
+*.exe
+*.zip
+
+# Dependencies and caches
+node_modules/
